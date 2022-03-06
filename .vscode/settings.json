@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "2DROTATI.C": "cpp",
+        "2DSCALIN.C": "cpp",
+        "2DTRANSL.C": "cpp",
+        "DDALINE.C": "cpp",
+        "DRAWCIRC.C": "cpp",
+        "Bresenham’s circle.C": "cpp",
+        "DRAWELLI.C": "cpp",
+        "ellipse.C": "cpp",
+        "FILE1(1).C": "cpp",
+        "polygon.C": "cpp",
+        "FILE2.C": "cpp",
+        "trandlatingGeometricFig.C": "cpp",
+        "GQUE2.C": "cpp",
+        "GQUE2(circle & star).C": "cpp",
+        "GQUE1.C": "cpp",
+        "moving arrow.C": "cpp"
+    }
+}
